@@ -13,6 +13,8 @@
 		D867231A2356BB1600F67B5B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D86723182356BB1600F67B5B /* Main.storyboard */; };
 		D867231C2356BB1900F67B5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D867231B2356BB1900F67B5B /* Assets.xcassets */; };
 		D867231F2356BB1900F67B5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D867231D2356BB1900F67B5B /* LaunchScreen.storyboard */; };
+		D86723272356BB6900F67B5B /* EmotionModel.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = D86723262356BB6900F67B5B /* EmotionModel.mlmodel */; };
+		D86723292356BFDF00F67B5B /* Emotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = D86723282356BFDE00F67B5B /* Emotion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		D867231B2356BB1900F67B5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D867231E2356BB1900F67B5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D86723202356BB1900F67B5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D86723262356BB6900F67B5B /* EmotionModel.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = EmotionModel.mlmodel; sourceTree = SOURCE_ROOT; };
+		D86723282356BFDE00F67B5B /* Emotion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Emotion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +60,8 @@
 		D86723112356BB1600F67B5B /* Emotion */ = {
 			isa = PBXGroup;
 			children = (
+				D86723262356BB6900F67B5B /* EmotionModel.mlmodel */,
+				D86723282356BFDE00F67B5B /* Emotion.swift */,
 				D86723122356BB1600F67B5B /* AppDelegate.swift */,
 				D86723142356BB1600F67B5B /* art.scnassets */,
 				D86723162356BB1600F67B5B /* ViewController.swift */,
@@ -140,7 +146,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				D86723172356BB1600F67B5B /* ViewController.swift in Sources */,
+				D86723272356BB6900F67B5B /* EmotionModel.mlmodel in Sources */,
 				D86723132356BB1600F67B5B /* AppDelegate.swift in Sources */,
+				D86723292356BFDF00F67B5B /* Emotion.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

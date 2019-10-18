@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>3932C825-4668-4D6B-BE16-5EA311DE8DFC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3932C825-4668-4D6B-BE16-5EA311DE8DFC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Emotion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Emotion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Emotion</string>
+			<key>timeStartedRecording</key>
+			<real>593028872.14051795</real>
+			<key>timeStoppedRecording</key>
+			<real>593029015.36579001</real>
+			<key>title</key>
+			<string>Debug Emotion</string>
+			<key>uniqueIdentifier</key>
+			<string>3932C825-4668-4D6B-BE16-5EA311DE8DFC</string>
+		</dict>
+		<key>78FBDEBC-70D0-458D-AD3E-EE5F5C90DD4B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>78FBDEBC-70D0-458D-AD3E-EE5F5C90DD4B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Emotion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Emotion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Emotion</string>
+			<key>timeStartedRecording</key>
+			<real>593031148.27837598</real>
+			<key>timeStoppedRecording</key>
+			<real>593031830.22639</real>
+			<key>title</key>
+			<string>Debug Emotion</string>
+			<key>uniqueIdentifier</key>
+			<string>78FBDEBC-70D0-458D-AD3E-EE5F5C90DD4B</string>
+		</dict>
+		<key>7EAEEBDF-FE8F-4A28-81C8-2C20B891F624</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7EAEEBDF-FE8F-4A28-81C8-2C20B891F624.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Emotion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Emotion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Emotion</string>
+			<key>timeStartedRecording</key>
+			<real>592897245.05869901</real>
+			<key>timeStoppedRecording</key>
+			<real>592897279.39908099</real>
+			<key>title</key>
+			<string>Debug Emotion</string>
+			<key>uniqueIdentifier</key>
+			<string>7EAEEBDF-FE8F-4A28-81C8-2C20B891F624</string>
+		</dict>
+		<key>A95795EF-A170-4F63-8491-E5C7F08D9583</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A95795EF-A170-4F63-8491-E5C7F08D9583.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Emotion project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Emotion</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Emotion</string>
+			<key>timeStartedRecording</key>
+			<real>593029478.84654903</real>
+			<key>timeStoppedRecording</key>
+			<real>593029542.98503399</real>
+			<key>title</key>
+			<string>Debug Emotion</string>
+			<key>uniqueIdentifier</key>
+			<string>A95795EF-A170-4F63-8491-E5C7F08D9583</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
